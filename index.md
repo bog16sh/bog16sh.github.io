@@ -5,7 +5,7 @@
 ### Data analysis projects 
 
 [HomeCredit project](https://github.com/bog16sh/MSBA)
-<img src="/dummy_thumbnail.jpg"/>
+<img src="/HomeCr.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
