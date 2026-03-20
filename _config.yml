@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Tesla AI
   <br><br>
   <a href="https://www.linkedin.com/in/bogdan-shalimov-8138b22b6">View My LinkedIn Profile</a> 
+  <a href="https://github.com/bog16sh">View My GitHub Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
