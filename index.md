@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data analysis projects 
 
 [HomeCredit project](https://github.com/bog16sh/MSBA)
 <img src="/dummy_thumbnail.jpg"/>
