@@ -8,8 +8,8 @@
 <img src="/HomeCr.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="/dummy_thumbnail.jpg"/>
+[Superbowl analytics challenge 2026](https://github.com/bog16sh/Superbowl-2026-analytics-challenge)
+<img src="/Superbowl.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
