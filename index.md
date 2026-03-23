@@ -12,9 +12,9 @@
 <img src="/Superbowl.png"/>
 
 ---
-[Generative AI Competition 2026. In Process](http://example.c/)
+[Intermountain HealthCare AI.](http://example.c/)
 
-<img src="/dummy_thumbnail.jpg"/>
+<img src="IMG_5182.png"/>
 
 ---
 
