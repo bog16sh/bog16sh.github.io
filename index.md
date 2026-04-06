@@ -19,4 +19,8 @@
 <img src="/Superbowl.png"/>
 
 ---
+[In process: Smart Ski Resort AI system]
 
+<img src="/dummy_thumbnail.png"/>
+
+---
