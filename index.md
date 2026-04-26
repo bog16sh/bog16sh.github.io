@@ -21,6 +21,6 @@
 ---
 In process: Smart Ski Resort AI system
 
-<img src="/dummy_thumbnail.jpg"/>
+<img src="/ski-ai.png"/>
 
 ---
