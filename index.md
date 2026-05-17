@@ -19,7 +19,7 @@
 <img src="/Superbowl.png"/>
 
 ---
-In process: Smart Ski Resort AI system
+[In process: Smart Ski Resort AI system](https://github.com/bog16sh/Ski-Ai)
 
 <img src="/ski_ai.png"/>
 
